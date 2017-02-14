@@ -34,7 +34,7 @@ sudo ldconfig
 
 #Steps to build and run samples to see how MQTT protocol works:
 ```Shell
-git clone 
+git clone https://github.com/nlbtuyen/mqtt-mosquitto-paho-sample
 cd mqtt-mosquitto-paho-sample
 ./build.sh
 ```
